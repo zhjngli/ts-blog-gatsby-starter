@@ -1,4 +1,4 @@
-const url = 'https://ts-blog.netlify.app';
+const url = 'https://tsbloggatsbystarter.gatsbyjs.io/';
 const title = 'blog';
 const description = "blog";
 
